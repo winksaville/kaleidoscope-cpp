@@ -1,0 +1,4 @@
+/toy.debug
+/toy.release
+/toy.*.asm
+/toy.*.o
